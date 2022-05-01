@@ -3,7 +3,7 @@ function App() {
   return (
     <div className="App">
       <h1>TechStore Project</h1>
-      <p>Navbar</p>
+      <p>NavBar</p>
     </div>
   );
 }

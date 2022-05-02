@@ -1,1 +1,23 @@
 //Import Component files
+
+.nav{
+    display: flex;
+    font-weight: bolder;
+    // justify-content: center;
+    padding: 1rem;
+    // flex-wrap: wrap;
+    list-style: none;
+    li{
+        padding: 0.7rem 2rem 0 0;
+
+    }
+    button{
+        padding: 0.5rem 2rem 0.5rem 2rem;
+        background: none;
+        border: 0.2rem solid rgb(76, 76, 237);
+        color: rgb(76, 76, 237);
+        border-radius: 1.8rem;
+        font-weight:bolder;
+    }
+}
+

@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "name": "image1",
+      "img": "./images/image-slider/img-slider1.png"
+    },
+    {
+        "id": 2,
+        "name": "image2",
+        "img": "./images/image-slider/img-slider2.png"
+      }
+]

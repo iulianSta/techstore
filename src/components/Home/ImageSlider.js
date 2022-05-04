@@ -64,12 +64,12 @@ const ImageSlider = () => {
 
       <div className="wrapper-dots-icons">
         {/* Icons for next && previous slide */}
-        <MdArrowBackIos className="silder-icon left" onClick={prevSlide} />
+        <MdArrowBackIos className="slider-icon left" onClick={prevSlide} />
 
         {/* Slider dots */}
         <div className="container-dots">{dots}</div>
 
-        <MdArrowForwardIos className="silder-icon right" onClick={nextSlide} />
+        <MdArrowForwardIos className="slider-icon right" onClick={nextSlide} />
       </div>
     </div>
   )

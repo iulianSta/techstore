@@ -1,0 +1,10 @@
+// Logo container
+
+.logo-container {
+    width: 88vw;
+    position: relative;
+    @include flex;
+    justify-content: space-between;
+    top: 21rem;
+    left: 6rem;
+}

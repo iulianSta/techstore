@@ -1,0 +1,37 @@
+[
+    {
+    "id": "fr1",
+    "name": "roccat",
+    "logo": "/images/product-logo/frame1.png"
+},
+{
+    "id": "fr2",
+    "name": "msi",
+    "logo": "/images/product-logo/frame2.png"
+},
+{
+    "id": "fr3",
+    "name": "razer",
+    "logo": "/images/product-logo/frame3.png"
+},
+{
+    "id": "fr4",
+    "name": "thermaltake",
+    "logo": "/images/product-logo/frame4.png"
+},
+{
+    "id": "fr5",
+    "name": "adata",
+    "logo": "/images/product-logo/frame5.png"
+},
+{
+    "id": "fr6",
+    "name": "hewlett",
+    "logo": "/images/product-logo/frame6.png"
+},
+{
+    "id": "fr7",
+    "name": "gigabyte",
+    "logo": "/images/product-logo/frame7.png"
+}
+]
